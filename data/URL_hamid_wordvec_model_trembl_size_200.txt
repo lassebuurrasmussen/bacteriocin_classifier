@@ -1,0 +1,1 @@
+https://github.com/nafizh/NeuBI/blob/master/my_wordvec_model_trembl_size_200

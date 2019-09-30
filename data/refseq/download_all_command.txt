@@ -1,0 +1,8 @@
+# To copy all folders
+rsync --copy-links --recursive --times --verbose rsync://ftp.ncbi.nlm.nih.gov/genomes/refseq/bacteria/*/latest_assembly_versions/*/*protein.faa.gz .
+
+# To get list of all directory structures to identify genomes with multiple assemblies - /./ indicates how much of the directory structure to print with -R (--relative) flag
+rsync -vR rsync://ftp.ncbi.nlm.nih.gov/genomes/refseq/bacteria/./*/latest_assembly_versions/
+
+# To get list with representative assemblies for each bacterium
+rsync -vR rsync://ftp.ncbi.nlm.nih.gov/genomes/refseq/bacteria/./*/representative/

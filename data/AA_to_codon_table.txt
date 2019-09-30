@@ -1,0 +1,23 @@
+#Most frequent codon for bacteria obtained from John Athey et al BMC https://doi.org/10.1186/s12859-017-1793-7
+A,GCC
+C,TGC
+D,GAT
+E,GAA
+F,TTT
+G,GGC
+H,CAT
+I,ATC
+K,AAA
+L,CTG
+M,ATG
+N,AAT
+P,CCG
+Q,CAG
+R,CGC
+S,AGC
+START,ATG
+STOP,TAA
+T,ACC
+V,GTG
+W,TGG
+Y,TAT
