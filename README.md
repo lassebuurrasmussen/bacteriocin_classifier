@@ -22,4 +22,6 @@ Now, to run the model on the fasta in file the [sample_fasta.faa](sample_fasta.f
 And the output will be of the form:\
 ![](result.png)
 
-If you want to play around with everything else in the repository I've exported a my environment to [conda_environment.yml](conda_environment.yml)
+If you want to play around with everything else in the repository I've exported my environment to [conda_environment.yml](conda_environment.yml)
+
+Enjoy!
