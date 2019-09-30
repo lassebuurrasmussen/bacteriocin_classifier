@@ -1,5 +1,7 @@
 ## Welcome
-This repository is a copy of *some* of the source code I used for my Master's Thesis. You can find my paper [here](paper/thesis.pdf).
+This repository is a copy of *some* of the source code I used for my Master's Thesis.
+
+#### You can find my paper [here](paper/thesis.pdf).
 
 #### To run my classifier
 You will need to install a few dependencies. In the example below I create a new conda environment with these installed:
