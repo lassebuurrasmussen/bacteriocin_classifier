@@ -22,7 +22,7 @@ def main(input_fasta, out_dir):
 
     # Activate GPU
     cuda_device = tf.test.gpu_device_name()
-    cuda_device = -1 if cuda_device == '' else cuda_device
+    cuda_device = -1 if cuda_device == '' else 0
 
     max_length = 359
 
