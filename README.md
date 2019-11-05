@@ -1,3 +1,5 @@
+# (THIS CLASSIFIER HAS BEEN UPDATED. PLEASE GO TO https://github.com/lassebuurrasmussen/bacteriocin_classifier_v2.0 TO FIND A CLEANER IMPLEMENTATION).
+
 ## Welcome
 This repository is a copy of *some* of the source code I used for my Master's Thesis.
 
